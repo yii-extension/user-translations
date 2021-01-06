@@ -8,6 +8,7 @@ return [
     'Please check your email to change your password' => '',
     'Sign in successful' => '',
     'Sign in successful - you are welcome' => '',
+    'System Notification - Yii Demo User Module AR' => '',
     'Your account has been created' => '',
     'Your data has been saved' => '',
     'Your password has been changed' => '',

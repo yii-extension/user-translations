@@ -8,6 +8,7 @@ return [
     'Please check your email to change your password' => 'Por favor revise su correo electrónico para cambiar su contraseña',
     'Sign in successful' => 'Inicio de sesión correcto',
     'Sign in successful - you are welcome' => 'Inicio de sesión correcto - usted es bienvenido',
+    'System Notification - Yii Demo User Module AR' => 'Notificación del sistema - Módulo de usuario de demostración de Yii AR',
     'Your account has been created' => 'Tu cuenta ha sido creada',
     'Your data has been saved' => 'Tus datos han sido guardados',
     'Your password has been changed' => 'Tu contraseña ha sido cambiada',
