@@ -3,6 +3,16 @@
 declare(strict_types=1);
 
 return [
+    // Translations flash message
+    'Please check your email to activate your username' => '',
+    'Please check your email to change your password' => '',
+    'Sign in successful' => '',
+    'Sign in successful - you are welcome' => '',
+    'Your account has been created' => '',
+    'Your data has been saved' => '',
+    'Your password has been changed' => '',
+
+    // Translations views
     'Already registered - Sign in!' => 'Reeds geregistreerd - Log in!',
     'Continue' => 'Doorgaan',
     "Don't have an account - Sign up!" => "Nog geen account - Registreren!",
