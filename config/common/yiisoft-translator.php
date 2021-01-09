@@ -9,6 +9,7 @@ use Yiisoft\Translator\Category;
 use Yiisoft\Translator\MessageFormatterInterface;
 use Yiisoft\Translator\MessageReaderInterface;
 use Yiisoft\Translator\Translator;
+use Yiisoft\Translator\TranslatorInterface;
 use Yiisoft\Translator\Message\Php\MessageSource;
 use Yiisoft\Translator\Formatter\Intl\IntlMessageFormatter;
 
@@ -27,7 +28,7 @@ return [
         ],
     ],
 
-    Translator::class => [
+    TranslatorInterface::class => [
         '__class' => Translator::class,
         '__construct()' => [
             Reference::to(Category::class),
