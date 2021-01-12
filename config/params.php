@@ -10,8 +10,9 @@ return [
     ],
 
     'yiisoft/translator' => [
-        'path' => '@user-translations',
         'defaultCategoryName' => 'user',
+        'fallbackLocale' => null,
         'locale' => 'en',
+        'path' => '@user-translations',
     ],
 ];

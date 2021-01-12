@@ -33,6 +33,7 @@ return [
         '__construct()' => [
             Reference::to(Category::class),
             $params['yiisoft/translator']['locale'],
+            $params['yiisoft/translator']['fallbackLocale'],
             Reference::to(EventDispatcherInterface::class),
         ],
     ],
