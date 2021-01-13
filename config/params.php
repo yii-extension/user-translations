@@ -11,6 +11,7 @@ return [
 
     'yiisoft/translator' => [
         'defaultCategory' => 'app',
+        'fallbackLocale' => null,
         'locale' => 'en',
     ],
 ];

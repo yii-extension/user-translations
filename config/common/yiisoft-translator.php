@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 use Psr\Container\ContainerInterface;
-use Psr\EventDispatcher\EventDispatcherInterface;
 use Yiisoft\Aliases\Aliases;
 use Yiisoft\Factory\Definitions\Reference;
 use Yiisoft\Translator\Category;
@@ -67,6 +66,7 @@ return [
         $translator = new Translator(
             $category,
             $params['yiisoft/translator']['locale'],
+            $params['yiisoft/translator']['fallbackLocale'],
         );
 
         $translator->addCategorySource($categoryUser);
