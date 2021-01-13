@@ -57,7 +57,7 @@ return [
         ],
     ],
 
-    TranslatorInterface::class => [
+    Translator::class => [
         '__class' => Translator:: class,
         '__construct()' => [
             Reference::to(Category::class),
@@ -65,9 +65,16 @@ return [
             $params['yiisoft/translator']['fallbackLocale'],
             Reference::to(EventDispatcherInterface::class),
         ],
-        'addCategorySource()' =>  [Reference::to(CategoryUser::class)],
-        'addCategorySource()' =>  [Reference::to(CategoryUserFlashMessage::class)],
-        'addCategorySource()' =>  [Reference::to(CategoryUserMailer::class)],
-        'addCategorySource()' =>  [Reference::to(CategoryUserView::class)],
     ],
+
+    TranslatorInterface::class => static function (ContainerInterface $container) {
+        $translator = $container->get(Translator::class);
+
+        $translator->addCategorySource($container->get(CategoryUser::class));
+        $translator->addCategorySource($container->get(CategoryUserFlashMessage::class));
+        $translator->addCategorySource($container->get(CategoryUserMailer::class));
+        $translator->addCategorySource($container->get(CategoryUserView::class));
+
+        return $translator;
+    },
 ];
