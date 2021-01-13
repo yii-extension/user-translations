@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 use Psr\Container\ContainerInterface;
+use Psr\EventDispatcher\EventDispatcherInterface;
 use Yiisoft\Aliases\Aliases;
 use Yiisoft\Factory\Definitions\Reference;
 use Yiisoft\Translator\Category;
@@ -56,24 +57,17 @@ return [
         ],
     ],
 
-    TranslatorInterface::class => static function (ContainerInterface $container) use ($params) {
-        $category = $container->get(Category::class);
-        $categoryUser = $container->get(CategoryUser::class);
-        $categoryUserFlashMessage = $container->get(CategoryUserFlashMessage::class);
-        $categoryUserMailer = $container->get(CategoryUserMailer::class);
-        $categoryUserView = $container->get(CategoryUserView::class);
-
-        $translator = new Translator(
-            $category,
+    TranslatorInterface::class => [
+        '__class' => Translator:: class,
+        '__construct()' => [
+            Reference::to(Category::class),
             $params['yiisoft/translator']['locale'],
             $params['yiisoft/translator']['fallbackLocale'],
-        );
-
-        $translator->addCategorySource($categoryUser);
-        $translator->addCategorySource($categoryUserFlashMessage);
-        $translator->addCategorySource($categoryUserMailer);
-        $translator->addCategorySource($categoryUserView);
-
-        return $translator;
-    },
+            Reference::to(EventDispatcherInterface::class),
+        ],
+        'addCategorySource()' =>  [Reference::to(CategoryUser::class)],
+        'addCategorySource()' =>  [Reference::to(CategoryUserFlashMessage::class)],
+        'addCategorySource()' =>  [Reference::to(CategoryUserMailer::class)],
+        'addCategorySource()' =>  [Reference::to(CategoryUserView::class)],
+    ],
 ];
