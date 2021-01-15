@@ -10,6 +10,7 @@ return [
     ],
 
     'yiisoft/translator' => [
+        'addCategories' => [],
         'defaultCategory' => 'app',
         'fallbackLocale' => null,
         'locale' => 'en',
