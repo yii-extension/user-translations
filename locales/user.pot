@@ -1,0 +1,106 @@
+msgid "Bio"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email already registered"
+msgstr ""
+
+msgid "Inactive user"
+msgstr ""
+
+msgid "Invalid login or password"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password should contain at least 6 characters"
+msgstr ""
+
+msgid "Please check your email to activate your account"
+msgstr ""
+
+msgid "Please check your email to activate your username"
+msgstr ""
+
+msgid "Please check your email to change your password"
+msgstr ""
+
+msgid "Public email"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Sign in successful - {lastLogin}"
+msgstr ""
+
+msgid "System Notification"
+msgstr ""
+
+msgid "Thank you. If said email is registered, you will get a password reset"
+msgstr ""
+
+msgid ""
+"Thank you. If said email is registered, you will get a resend confirmation "
+"message"
+msgstr ""
+
+msgid "The value must be either \"1\" or \"0\""
+msgstr ""
+
+msgid "This is your first login - Welcome"
+msgstr ""
+
+msgid "This value is invalid"
+msgstr ""
+
+msgid "This value is not a valid URL"
+msgstr ""
+
+msgid "This value is not a valid email address"
+msgstr ""
+
+msgid "Time zone"
+msgstr ""
+
+msgid "User is active"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username already registered"
+msgstr ""
+
+msgid "Username should contain at least 3 characters"
+msgstr ""
+
+msgid "Value cannot be blank"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Your account has been created"
+msgstr ""
+
+msgid "Your data has been saved"
+msgstr ""
+
+msgid "Your password has been changed"
+msgstr ""
+
+msgid "Your user has been blocked, contact an administrator"
+msgstr ""
+
+msgid "Your user has been confirmed"
+msgstr ""

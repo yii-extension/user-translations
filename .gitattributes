@@ -14,12 +14,15 @@
 *.bat  text
 *.sql  text
 *.yml  text
+*.pot  text
+*.po   text
 
 # Ensure those won't be messed up with
 *.png  binary
 *.jpg  binary
 *.gif  binary
 *.ttf  binary
+*.mo   binary
 
 # Ignore some meta files when creating an archive of this repository
 /.github            export-ignore
@@ -30,6 +33,9 @@
 /phpunit.xml.dist   export-ignore
 /tests              export-ignore
 /docs               export-ignore
+*.pot               export-ignore
+*.po                export-ignore
+/*.sh               export-ignore
 
 # Avoid merge conflicts in CHANGELOG
 # https://about.gitlab.com/2015/02/10/gitlab-reduced-merge-conflicts-by-90-percent-with-changelog-placeholders/

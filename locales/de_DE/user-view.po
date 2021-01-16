@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Already registered - Sign in!"
+msgstr "Bereits registriert - Anmelden!"
+
+msgid "Continue"
+msgstr "Fortsetzen"
+
+msgid "Didn't receive confirmation message"
+msgstr "Bestätigungsnachricht nicht erhalten"
+
+msgid "Don't have an account - Sign up!"
+msgstr "Kein Konto - Registrieren!"
+
+msgid "Forgot password"
+msgstr "Kennwort vergessen"
+
+msgid "Log in"
+msgstr "Anmelden"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Request your password"
+msgstr "Fordern Sie Ihr Passwort an"
+
+msgid "Resend confirmation message"
+msgstr "Bestätigungsnachricht erneut senden"
+
+msgid "Reset your password"
+msgstr "Kennwort zurücksetzen"
+
+msgid "Save"
+msgstr "Speichern"

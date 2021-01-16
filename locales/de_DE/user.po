@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Bio"
+msgstr "Biografie"
+
+msgid "Email"
+msgstr "E-Mail-Addresse"
+
+msgid "Email already registered"
+msgstr "Email schon registriert"
+
+msgid "Inactive user"
+msgstr "Inaktiver Benutzer"
+
+msgid "Invalid login or password"
+msgstr "Ungültiger Anmeldename oder Passwort"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Password"
+msgstr "Kennwort"
+
+msgid "Password should contain at least 6 characters"
+msgstr "Das Kennwort sollte mindestens 6 Zeichen enthalten"
+
+msgid "Please check your email to activate your account"
+msgstr ""
+"Bitte überprüfen Sie Ihre E-Mails, um Ihren Benutzernamen zu aktivieren"
+
+msgid "Please check your email to activate your username"
+msgstr "Bitte überprüfen Sie Ihre E-Mails, um Ihr Konto zu aktivieren"
+
+msgid "Please check your email to change your password"
+msgstr "Bitte überprüfen Sie Ihre E-Mails, um Ihr Passwort zu ändern"
+
+msgid "Public email"
+msgstr "Öffentliche E-Mail-Adresse"
+
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+msgid "Sign in successful - {lastLogin}"
+msgstr "Erfolgreich angemeldet - {lastLogin}"
+
+msgid "System Notification"
+msgstr "Systembenachrichtigung"
+
+msgid "Thank you. If said email is registered, you will get a password reset"
+msgstr ""
+"Vielen Dank. Wenn diese E-Mail registriert ist, wird das Passwort "
+"zurückgesetzt"
+
+msgid ""
+"Thank you. If said email is registered, you will get a resend confirmation "
+"message"
+msgstr ""
+"Vielen Dank. Wenn diese E-Mail registriert ist, erhalten Sie eine "
+"Bestätigungsnachricht zum erneuten Senden"
+
+msgid "The value must be either \"1\" or \"0\""
+msgstr "Der Wert muss entweder \"1\" oder \"0\" sein"
+
+msgid "This is your first login - Welcome"
+msgstr "Dies ist Ihr erster Login - Herzlich willkommen"
+
+msgid "This value is invalid"
+msgstr "Dieser Wert ist ungültig"
+
+msgid "This value is not a valid URL"
+msgstr "Dieser Wert ist keine gültige URL"
+
+msgid "This value is not a valid email address"
+msgstr "Dieser Wert ist keine gültige E-Mail-Adresse"
+
+msgid "Time zone"
+msgstr "Zeitzone"
+
+msgid "User is active"
+msgstr "Benutzer ist aktiv"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Username already registered"
+msgstr "Benutzername existiert bereits"
+
+msgid "Username should contain at least 3 characters"
+msgstr "Der Benutzername sollte mindestens 3 Zeichen enthalten"
+
+msgid "Value cannot be blank"
+msgstr "Der Wert darf nicht leer sein"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Your account has been created"
+msgstr "Ihr Konto wurde erstellt"
+
+msgid "Your data has been saved"
+msgstr "Ihre Daten wurden gespeichert"
+
+msgid "Your password has been changed"
+msgstr "Ihr Passwort wurde geändert"
+
+msgid "Your user has been blocked, contact an administrator"
+msgstr "Ihr Konto wurde blockiert. Wenden Sie sich an einen Administrator"
+
+msgid "Your user has been confirmed"
+msgstr "Ihr Konto wurde bestätigt"

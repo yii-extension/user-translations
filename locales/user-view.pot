@@ -1,0 +1,35 @@
+msgid "Already registered - Sign in!"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Didn't receive confirmation message"
+msgstr ""
+
+msgid "Don't have an account - Sign up!"
+msgstr ""
+
+msgid "Forgot password"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Request your password"
+msgstr ""
+
+msgid "Resend confirmation message"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Save"
+msgstr ""

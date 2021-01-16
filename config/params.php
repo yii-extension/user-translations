@@ -5,7 +5,7 @@ declare(strict_types=1);
 return [
     'yiisoft/aliases' => [
         'aliases' => [
-            '@user-translations' =>  dirname(__DIR__) . '/language',
+            '@user-translations' =>  dirname(__DIR__) . '/locales',
         ]
     ],
 
@@ -13,6 +13,6 @@ return [
         'addCategories' => [],
         'defaultCategory' => 'app',
         'fallbackLocale' => null,
-        'locale' => 'en',
+        'locale' => 'en_US.utf-8',
     ],
 ];

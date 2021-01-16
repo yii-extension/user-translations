@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Already registered - Sign in!"
+msgstr "Reeds geregistreerd - Log in!"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Didn't receive confirmation message"
+msgstr "Bevestigingsmail niet ontvangen"
+
+msgid "Don't have an account - Sign up!"
+msgstr "Nog geen account - Registreren!"
+
+msgid "Forgot password"
+msgstr "Wachtwoord vergeten"
+
+msgid "Log in"
+msgstr "Inloggen"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "Request your password"
+msgstr "Vraag uw wachtwoord aan"
+
+msgid "Resend confirmation message"
+msgstr "Bevestigingsmail opnieuw versturen"
+
+msgid "Reset your password"
+msgstr "Wachtwoord resetten"
+
+msgid "Save"
+msgstr "Opslaan"

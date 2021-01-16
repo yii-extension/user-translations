@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use Psr\Container\ContainerInterface;
 use Psr\EventDispatcher\EventDispatcherInterface;
 use Yiisoft\Aliases\Aliases;
 use Yiisoft\Factory\Definitions\Reference;
@@ -11,7 +10,7 @@ use Yiisoft\Translator\MessageFormatterInterface;
 use Yiisoft\Translator\MessageReaderInterface;
 use Yiisoft\Translator\Translator;
 use Yiisoft\Translator\TranslatorInterface;
-use Yiisoft\Translator\Message\Php\MessageSource;
+use Yiisoft\Translator\Message\Gettext\MessageSource;
 use Yiisoft\Translator\Formatter\Intl\IntlMessageFormatter;
 
 return [
@@ -36,20 +35,6 @@ return [
         ],
     ],
 
-    CategoryUserFlashMessage::class => [
-        '__class' => Category::class,
-        '__construct()' => [
-            'name' => 'user-flash-message',
-        ],
-    ],
-
-    CategoryUserMailer::class => [
-        '__class' => Category::class,
-        '__construct()' => [
-            'name' => 'user-mailer',
-        ],
-    ],
-
     CategoryUserView::class => [
         '__class' => Category::class,
         '__construct()' => [
@@ -69,8 +54,6 @@ return [
             array_merge(
                 [
                     Reference::to(CategoryUser::class),
-                    Reference::to(CategoryUserFlashMessage::class),
-                    Reference::to(CategoryUserMailer::class),
                     Reference::to(CategoryUserView::class),
                 ],
                 $params['yiisoft/translator']['addCategories'],

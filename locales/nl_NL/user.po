@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Bio"
+msgstr "Biografie"
+
+msgid "Email"
+msgstr "E-mail Adres"
+
+msgid "Email already registered"
+msgstr "E-mailadres al geregistreerd"
+
+msgid "Inactive user"
+msgstr "Inactieve gebruiker"
+
+msgid "Invalid login or password"
+msgstr "Ongeldige login of wachtwoord"
+
+msgid "Location"
+msgstr "Lokatie"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password should contain at least 6 characters"
+msgstr "Wachtwoord moet minimaal 6 tekens bevatten"
+
+msgid "Please check your email to activate your account"
+msgstr "Controleer uw e-mail om uw account te activeren"
+
+msgid "Please check your email to activate your username"
+msgstr "Controleer uw e-mail om uw gebruikersnaam te activeren"
+
+msgid "Please check your email to change your password"
+msgstr "Controleer uw e-mail om uw wachtwoord te wijzigen"
+
+msgid "Public email"
+msgstr "Openbaar e-mailadres"
+
+msgid "Remember me"
+msgstr "Ingelogd blijven"
+
+msgid "Sign in successful - {lastLogin}"
+msgstr "Succesvol aangemeld - {lastLogin}"
+
+msgid "System Notification"
+msgstr "Systeemnotificatie"
+
+msgid "Thank you. If said email is registered, you will get a password reset"
+msgstr ""
+"Dank u. Als het genoemde e-mailadres is geregistreerd, wordt uw wachtwoord "
+"opnieuw ingesteld"
+
+msgid ""
+"Thank you. If said email is registered, you will get a resend confirmation "
+"message"
+msgstr ""
+"Dank u. Als dit e-mailadres is geregistreerd, krijgt u een "
+"bevestigingsbericht"
+
+msgid "The value must be either \"1\" or \"0\""
+msgstr "De waarde moet \"1\" of \"0\" zijn"
+
+msgid "This is your first login - Welcome"
+msgstr "Dit is uw eerste login - Welkom"
+
+msgid "This value is invalid"
+msgstr "Deze waarde is ongeldig"
+
+msgid "This value is not a valid URL"
+msgstr "Deze waarde is geen geldige URL"
+
+msgid "This value is not a valid email address"
+msgstr "Deze waarde is geen geldig e-mailadres"
+
+msgid "Time zone"
+msgstr "Tijdzone"
+
+msgid "User is active"
+msgstr "Gebruiker is actief"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Username already registered"
+msgstr "Gebruikersnaam al geregistreerd"
+
+msgid "Username should contain at least 3 characters"
+msgstr "De gebruikersnaam moet minimaal 3 tekens bevatten"
+
+msgid "Value cannot be blank"
+msgstr "Waarde mag niet leeg zijn"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Your account has been created"
+msgstr "Uw account is gecreëerd"
+
+msgid "Your data has been saved"
+msgstr "De data is opgeslagen"
+
+msgid "Your password has been changed"
+msgstr "Het wachtwoord is gewijzigd"
+
+msgid "Your user has been blocked, contact an administrator"
+msgstr "Uw gebruiker is geblokkeerd, neem contact op met een beheerder"
+
+msgid "Your user has been confirmed"
+msgstr "Uw account is bevestigd"
