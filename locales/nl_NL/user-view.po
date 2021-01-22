@@ -9,6 +9,9 @@ msgstr ""
 msgid "Already registered - Sign in!"
 msgstr "Reeds geregistreerd - Log in!"
 
+msgid "Change email address"
+msgstr "E-mailadres wijzigen"
+
 msgid "Continue"
 msgstr "Doorgaan"
 

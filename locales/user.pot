@@ -116,9 +116,6 @@ msgstr ""
 msgid "Your email address has been changed"
 msgstr ""
 
-msgid "Your email has been changed"
-msgstr ""
-
 msgid "Your password has been changed"
 msgstr ""
 

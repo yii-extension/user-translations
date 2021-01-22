@@ -129,9 +129,6 @@ msgstr "Tus datos han sido guardados"
 msgid "Your email address has been changed"
 msgstr ""
 
-msgid "Your email has been changed"
-msgstr ""
-
 msgid "Your password has been changed"
 msgstr "Tu contraseña ha sido cambiada"
 

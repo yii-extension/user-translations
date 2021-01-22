@@ -10,6 +10,9 @@ msgstr ""
 msgid "Already registered - Sign in!"
 msgstr "Уже зарегистрированы - Vходить!"
 
+msgid "Change email address"
+msgstr "Изменить адрес электронной почты"
+
 msgid "Continue"
 msgstr "Продолжить"
 

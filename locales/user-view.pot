@@ -1,6 +1,9 @@
 msgid "Already registered - Sign in!"
 msgstr ""
 
+msgid "Change email address"
+msgstr ""
+
 msgid "Continue"
 msgstr ""
 

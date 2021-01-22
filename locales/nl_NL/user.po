@@ -7,7 +7,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "A confirmation message has been sent to your new email address {email}"
-msgstr "Er is een bevestigingsbericht verzonden naar uw nieuwe e-mailadres {email}"
+msgstr ""
+"Er is een bevestigingsbericht verzonden naar uw nieuwe e-mailadres {email}"
 
 msgid "An error occurred processing your request"
 msgstr "Er is een fout opgetreden tijdens uw aanvraag"
@@ -111,9 +112,10 @@ msgstr "Waarde mag niet leeg zijn"
 msgid ""
 "We have sent confirmation links to both old email: {email} and new email: "
 "{newEmail} addresses. You must click both links to complete your request"
-msgstr "We hebben bevestigingslinks gestuurd naar zowel oude e-mailadres: "
-"{email} alsook uw nieuwe e-mailadres: {newEmail}. U moet op beide links "
-"klikken om uw verzoek te voltooien"
+msgstr ""
+"We hebben bevestigingslinks gestuurd naar zowel oude e-mailadres: {email} "
+"alsook uw nieuwe e-mailadres: {newEmail}. U moet op beide links klikken om "
+"uw verzoek te voltooien"
 
 msgid "Website"
 msgstr "Website"
@@ -128,9 +130,6 @@ msgid "Your data has been saved"
 msgstr "De data is opgeslagen"
 
 msgid "Your email address has been changed"
-msgstr "Uw e-mailadres is gewijzigd"
-
-msgid "Your email has been changed"
 msgstr "Uw e-mailadres is gewijzigd"
 
 msgid "Your password has been changed"

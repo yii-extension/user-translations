@@ -133,9 +133,6 @@ msgstr "Ihre Daten wurden gespeichert"
 msgid "Your email address has been changed"
 msgstr "Ihre E-Mail-Adresse wurde geändert"
 
-msgid "Your email has been changed"
-msgstr "Ihre E-Mail-Adresse wurde geändert"
-
 msgid "Your password has been changed"
 msgstr "Ihr Passwort wurde geändert"
 
