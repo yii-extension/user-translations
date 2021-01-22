@@ -6,6 +6,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "A confirmation message has been sent to your new email address {email}"
+msgstr ""
+
+msgid "An error occurred processing your request"
+msgstr ""
+
 msgid "Bio"
 msgstr "Biografía"
 
@@ -42,6 +48,9 @@ msgstr ""
 
 msgid "Please check your email to change your password"
 msgstr "Por favor revise su correo electrónico para cambiar su contraseña"
+
+msgid "Please check your email to confirm the change"
+msgstr "Por favor, compruebe su correo electrónico para confirmar el cambio"
 
 msgid "Public email"
 msgstr "Dirección de correo electrónico pública"
@@ -100,14 +109,28 @@ msgstr "El nombre de usuario debe contener al menos 3 caracteres"
 msgid "Value cannot be blank"
 msgstr "El valor no puede estar en blanco"
 
+msgid ""
+"We have sent confirmation links to both old email: {email} and new email: "
+"{newEmail} addresses. You must click both links to complete your request"
+msgstr ""
+
 msgid "Website"
 msgstr "Sitio web"
 
 msgid "Your account has been created"
 msgstr "Tu cuenta ha sido creada"
 
+msgid "Your confirmation token is invalid or expired"
+msgstr ""
+
 msgid "Your data has been saved"
 msgstr "Tus datos han sido guardados"
+
+msgid "Your email address has been changed"
+msgstr ""
+
+msgid "Your email has been changed"
+msgstr ""
 
 msgid "Your password has been changed"
 msgstr "Tu contraseña ha sido cambiada"

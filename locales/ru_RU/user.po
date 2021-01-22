@@ -7,6 +7,13 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 &&n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
+msgid "A confirmation message has been sent to your new email address {email}"
+msgstr "На ваш новый адрес электронной почты {email} было отправлено "
+"подтверждающее сообщение"
+
+msgid "An error occurred processing your request"
+msgstr "При обработке вашего запроса произошла ошибка"
+
 msgid "Bio"
 msgstr "Биография"
 
@@ -46,6 +53,10 @@ msgstr ""
 
 msgid "Please check your email to change your password"
 msgstr "Пожалуйста, проверьте свою электронную почту, чтобы изменить пароль"
+
+msgid "Please check your email to confirm the change"
+msgstr ""
+"Пожалуйста, проверьте свою электронную почту, чтобы подтвердить изменение"
 
 msgid "Public email"
 msgstr "Общедоступный эл. адрес"
@@ -104,14 +115,30 @@ msgstr "Имя пользователя должно содержать не м�
 msgid "Value cannot be blank"
 msgstr "Значение не может быть пустым"
 
+msgid ""
+"We have sent confirmation links to both old email: {email} and new email: "
+"{newEmail} addresses. You must click both links to complete your request"
+msgstr "Мы отправили ссылки для подтверждения как на старый адрес электронной "
+"почты: {email}, так и на новый адрес электронной почты: {newEmail}. Вы "
+"должны щелкнуть обе ссылки, чтобы завершить свой запрос"
+
 msgid "Website"
 msgstr "Веб-сайт"
 
 msgid "Your account has been created"
 msgstr "Ваш аккаунт был создан"
 
+msgid "Your confirmation token is invalid or expired"
+msgstr "Ваш токен подтверждения недействителен или просрочен"
+
 msgid "Your data has been saved"
 msgstr "Ваши данные были сохранены"
+
+msgid "Your email address has been changed"
+msgstr "Ваш электронный адрес был изменен"
+
+msgid "Your email has been changed"
+msgstr "Ваш электронный адрес был изменен"
 
 msgid "Your password has been changed"
 msgstr "Ваш пароль был изменен"

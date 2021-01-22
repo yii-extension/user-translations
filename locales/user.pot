@@ -1,3 +1,9 @@
+msgid "A confirmation message has been sent to your new email address {email}"
+msgstr ""
+
+msgid "An error occurred processing your request"
+msgstr ""
+
 msgid "Bio"
 msgstr ""
 
@@ -32,6 +38,9 @@ msgid "Please check your email to activate your username"
 msgstr ""
 
 msgid "Please check your email to change your password"
+msgstr ""
+
+msgid "Please check your email to confirm the change"
 msgstr ""
 
 msgid "Public email"
@@ -87,13 +96,27 @@ msgstr ""
 msgid "Value cannot be blank"
 msgstr ""
 
+msgid ""
+"We have sent confirmation links to both old email: {email} and new email: "
+"{newEmail} addresses. You must click both links to complete your request"
+msgstr ""
+
 msgid "Website"
 msgstr ""
 
 msgid "Your account has been created"
 msgstr ""
 
+msgid "Your confirmation token is invalid or expired"
+msgstr ""
+
 msgid "Your data has been saved"
+msgstr ""
+
+msgid "Your email address has been changed"
+msgstr ""
+
+msgid "Your email has been changed"
 msgstr ""
 
 msgid "Your password has been changed"

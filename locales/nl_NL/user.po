@@ -6,6 +6,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "A confirmation message has been sent to your new email address {email}"
+msgstr "Er is een bevestigingsbericht verzonden naar uw nieuwe e-mailadres {email}"
+
+msgid "An error occurred processing your request"
+msgstr "Er is een fout opgetreden tijdens uw aanvraag"
+
 msgid "Bio"
 msgstr "Biografie"
 
@@ -41,6 +47,9 @@ msgstr "Controleer uw e-mail om uw gebruikersnaam te activeren"
 
 msgid "Please check your email to change your password"
 msgstr "Controleer uw e-mail om uw wachtwoord te wijzigen"
+
+msgid "Please check your email to confirm the change"
+msgstr "Controleer uw e-mail om de wijziging te bevestigen"
 
 msgid "Public email"
 msgstr "Openbaar e-mailadres"
@@ -99,17 +108,33 @@ msgstr "De gebruikersnaam moet minimaal 3 tekens bevatten"
 msgid "Value cannot be blank"
 msgstr "Waarde mag niet leeg zijn"
 
+msgid ""
+"We have sent confirmation links to both old email: {email} and new email: "
+"{newEmail} addresses. You must click both links to complete your request"
+msgstr "We hebben bevestigingslinks gestuurd naar zowel oude e-mailadres: "
+"{email} alsook uw nieuwe e-mailadres: {newEmail}. U moet op beide links "
+"klikken om uw verzoek te voltooien"
+
 msgid "Website"
 msgstr "Website"
 
 msgid "Your account has been created"
 msgstr "Uw account is gecreëerd"
 
+msgid "Your confirmation token is invalid or expired"
+msgstr "Uw bevestigingstoken is ongeldig of verlopen"
+
 msgid "Your data has been saved"
 msgstr "De data is opgeslagen"
 
+msgid "Your email address has been changed"
+msgstr "Uw e-mailadres is gewijzigd"
+
+msgid "Your email has been changed"
+msgstr "Uw e-mailadres is gewijzigd"
+
 msgid "Your password has been changed"
-msgstr "Het wachtwoord is gewijzigd"
+msgstr "Uw wachtwoord is gewijzigd"
 
 msgid "Your user has been blocked, contact an administrator"
 msgstr "Uw gebruiker is geblokkeerd, neem contact op met een beheerder"

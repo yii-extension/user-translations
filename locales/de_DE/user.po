@@ -6,6 +6,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgid "A confirmation message has been sent to your new email address {email}"
+msgstr ""
+"Eine Bestätigungsnachricht wurde an Ihre neue E-Mail-Adresse {email} gesendet"
+
+msgid "An error occurred processing your request"
+msgstr "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten"
+
 msgid "Bio"
 msgstr "Biografie"
 
@@ -42,6 +49,9 @@ msgstr "Bitte überprüfen Sie Ihre E-Mails, um Ihr Konto zu aktivieren"
 
 msgid "Please check your email to change your password"
 msgstr "Bitte überprüfen Sie Ihre E-Mails, um Ihr Passwort zu ändern"
+
+msgid "Please check your email to confirm the change"
+msgstr "Bitte überprüfen Sie Ihre E-Mails, um die Änderung zu bestätigen"
 
 msgid "Public email"
 msgstr "Öffentliche E-Mail-Adresse"
@@ -100,14 +110,31 @@ msgstr "Der Benutzername sollte mindestens 3 Zeichen enthalten"
 msgid "Value cannot be blank"
 msgstr "Der Wert darf nicht leer sein"
 
+msgid ""
+"We have sent confirmation links to both old email: {email} and new email: "
+"{newEmail} addresses. You must click both links to complete your request"
+msgstr ""
+"Wir haben Bestätigungslinks sowohl an alte E-Mail-Adressen: {email} als auch "
+"an neue E-Mail-Adressen: {newEmail} gesendet. Sie müssen auf beide Links "
+"klicken, um Ihre Anfrage abzuschließen"
+
 msgid "Website"
 msgstr "Webseite"
 
 msgid "Your account has been created"
 msgstr "Ihr Konto wurde erstellt"
 
+msgid "Your confirmation token is invalid or expired"
+msgstr "Ihr Bestätigungstoken ist ungültig oder abgelaufen"
+
 msgid "Your data has been saved"
 msgstr "Ihre Daten wurden gespeichert"
+
+msgid "Your email address has been changed"
+msgstr "Ihre E-Mail-Adresse wurde geändert"
+
+msgid "Your email has been changed"
+msgstr "Ihre E-Mail-Adresse wurde geändert"
 
 msgid "Your password has been changed"
 msgstr "Ihr Passwort wurde geändert"
