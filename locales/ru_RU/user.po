@@ -12,17 +12,29 @@ msgstr ""
 "На ваш новый адрес электронной почты {email} было отправлено подтверждающее "
 "сообщение"
 
-msgid "An error occurred processing your request"
-msgstr "При обработке вашего запроса произошла ошибка"
+msgid "Account Delete"
+msgstr "Учетная запись Удалить"
 
 msgid "Bio"
 msgstr "Биография"
 
+msgid "Confirmation"
+msgstr "Подтверждение"
+
 msgid "Email"
 msgstr "Эл. адрес"
 
+msgid "Email From"
+msgstr "Электронная почта от"
+
 msgid "Email already registered"
 msgstr "Электронная почта уже зарегистрирована"
+
+msgid "Generating password"
+msgstr "Сгенерировать пароль"
+
+msgid "Header Message"
+msgstr "Заголовок сообщения"
 
 msgid "Inactive user"
 msgstr "Неактивный пользователь"
@@ -38,6 +50,9 @@ msgstr "Имя"
 
 msgid "Password"
 msgstr "Пароль"
+
+msgid "Password Recovery"
+msgstr "Восстановление пароля"
 
 msgid "Password should contain at least 6 characters"
 msgstr "Пароль должен содержать не менее 6 символов"
@@ -62,11 +77,29 @@ msgstr ""
 msgid "Public email"
 msgstr "Общедоступный эл. адрес"
 
+msgid "Register"
+msgstr "Регистрация"
+
 msgid "Remember me"
 msgstr "Запомнить"
 
 msgid "Sign in successful - {lastLogin}"
 msgstr "Успешный вход - {lastLogin}"
+
+msgid "Subject Confirm"
+msgstr "Тема Подтвердить"
+
+msgid "Subject Password"
+msgstr "Тема Пароль"
+
+msgid "Subject Reconfirmation"
+msgstr "Тема Повторное подтверждение"
+
+msgid "Subject Recovery"
+msgstr "Тема Восстановление"
+
+msgid "Subject Welcome"
+msgstr "Тема Приветственное сообщение"
 
 msgid "System Notification"
 msgstr "Системное уведомление"
@@ -101,11 +134,23 @@ msgstr "Это значение не является действительны
 msgid "Time zone"
 msgstr "Часовой пояс"
 
+msgid "Token Confirmation"
+msgstr "Подтверждение токена"
+
+msgid "Token Recover"
+msgstr "Восстановление токена"
+
 msgid "User is active"
 msgstr "Пользователь активен"
 
 msgid "Username"
 msgstr "Имя пользователя"
+
+msgid "Username Case Sensitive"
+msgstr "Имя пользователя чувствительно к регистру"
+
+msgid "Username Regex Expression"
+msgstr "Выражение регулярного выражения имени пользователя"
 
 msgid "Username already registered"
 msgstr "Имя пользователя уже зарегистрировано"

@@ -1,16 +1,28 @@
 msgid "A confirmation message has been sent to your new email address {email}"
 msgstr ""
 
-msgid "An error occurred processing your request"
+msgid "Account Delete"
 msgstr ""
 
 msgid "Bio"
 msgstr ""
 
+msgid "Confirmation"
+msgstr ""
+
 msgid "Email"
 msgstr ""
 
+msgid "Email From"
+msgstr ""
+
 msgid "Email already registered"
+msgstr ""
+
+msgid "Generating password"
+msgstr ""
+
+msgid "Header Message"
 msgstr ""
 
 msgid "Inactive user"
@@ -26,6 +38,9 @@ msgid "Name"
 msgstr ""
 
 msgid "Password"
+msgstr ""
+
+msgid "Password Recovery"
 msgstr ""
 
 msgid "Password should contain at least 6 characters"
@@ -46,10 +61,28 @@ msgstr ""
 msgid "Public email"
 msgstr ""
 
+msgid "Register"
+msgstr ""
+
 msgid "Remember me"
 msgstr ""
 
 msgid "Sign in successful - {lastLogin}"
+msgstr ""
+
+msgid "Subject Confirm"
+msgstr ""
+
+msgid "Subject Password"
+msgstr ""
+
+msgid "Subject Reconfirmation"
+msgstr ""
+
+msgid "Subject Recovery"
+msgstr ""
+
+msgid "Subject Welcome"
 msgstr ""
 
 msgid "System Notification"
@@ -81,10 +114,22 @@ msgstr ""
 msgid "Time zone"
 msgstr ""
 
+msgid "Token Confirmation"
+msgstr ""
+
+msgid "Token Recover"
+msgstr ""
+
 msgid "User is active"
 msgstr ""
 
 msgid "Username"
+msgstr ""
+
+msgid "Username Case Sensitive"
+msgstr ""
+
+msgid "Username Regex Expression"
 msgstr ""
 
 msgid "Username already registered"

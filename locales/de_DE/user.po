@@ -10,17 +10,29 @@ msgid "A confirmation message has been sent to your new email address {email}"
 msgstr ""
 "Eine Bestätigungsnachricht wurde an Ihre neue E-Mail-Adresse {email} gesendet"
 
-msgid "An error occurred processing your request"
-msgstr "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten"
+msgid "Account Delete"
+msgstr "Konto löschen"
 
 msgid "Bio"
 msgstr "Biografie"
 
+msgid "Confirmation"
+msgstr "Bestätigung"
+
 msgid "Email"
 msgstr "E-Mail-Addresse"
 
+msgid "Email From"
+msgstr "E-Mail von"
+
 msgid "Email already registered"
 msgstr "Email schon registriert"
+
+msgid "Generating password"
+msgstr "Kennwort generieren"
+
+msgid "Header Message"
+msgstr "Header-Nachricht"
 
 msgid "Inactive user"
 msgstr "Inaktiver Benutzer"
@@ -36,6 +48,9 @@ msgstr "Name"
 
 msgid "Password"
 msgstr "Kennwort"
+
+msgid "Password Recovery"
+msgstr "Passwort-Wiederherstellung"
 
 msgid "Password should contain at least 6 characters"
 msgstr "Das Kennwort sollte mindestens 6 Zeichen enthalten"
@@ -56,11 +71,29 @@ msgstr "Bitte überprüfen Sie Ihre E-Mails, um die Änderung zu bestätigen"
 msgid "Public email"
 msgstr "Öffentliche E-Mail-Adresse"
 
+msgid "Register"
+msgstr "Registrieren"
+
 msgid "Remember me"
 msgstr "Angemeldet bleiben"
 
 msgid "Sign in successful - {lastLogin}"
 msgstr "Erfolgreich angemeldet - {lastLogin}"
+
+msgid "Subject Confirm"
+msgstr "Betreff Bestätigen"
+
+msgid "Subject Password"
+msgstr "Betreff Kennwort"
+
+msgid "Subject Reconfirmation"
+msgstr "Betreff Rückbestätigung"
+
+msgid "Subject Recovery"
+msgstr "Betreff Wiederherstellung"
+
+msgid "Subject Welcome"
+msgstr "Betreff Willkommen"
 
 msgid "System Notification"
 msgstr "Systembenachrichtigung"
@@ -95,11 +128,23 @@ msgstr "Dieser Wert ist keine gültige E-Mail-Adresse"
 msgid "Time zone"
 msgstr "Zeitzone"
 
+msgid "Token Confirmation"
+msgstr "Token-Bestätigung"
+
+msgid "Token Recover"
+msgstr "Token wiederherstellen"
+
 msgid "User is active"
 msgstr "Benutzer ist aktiv"
 
 msgid "Username"
 msgstr "Benutzername"
+
+msgid "Username Case Sensitive"
+msgstr "Benutzername Groß- und Kleinschreibung beachten"
+
+msgid "Username Regex Expression"
+msgstr "Benutzername Regex-Ausdruck"
 
 msgid "Username already registered"
 msgstr "Benutzername existiert bereits"

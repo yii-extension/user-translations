@@ -9,17 +9,29 @@ msgstr ""
 msgid "A confirmation message has been sent to your new email address {email}"
 msgstr ""
 
-msgid "An error occurred processing your request"
+msgid "Account Delete"
 msgstr ""
 
 msgid "Bio"
 msgstr "Biografía"
 
+msgid "Confirmation"
+msgstr ""
+
 msgid "Email"
 msgstr "Correo electrónico"
 
+msgid "Email From"
+msgstr ""
+
 msgid "Email already registered"
 msgstr "Correo electrónico ya registrado"
+
+msgid "Generating password"
+msgstr ""
+
+msgid "Header Message"
+msgstr ""
 
 msgid "Inactive user"
 msgstr "Usuario inactivo"
@@ -35,6 +47,9 @@ msgstr "Nombre"
 
 msgid "Password"
 msgstr "Contraseña"
+
+msgid "Password Recovery"
+msgstr ""
 
 msgid "Password should contain at least 6 characters"
 msgstr "La contraseña debe contener al menos 6 caracteres"
@@ -55,11 +70,29 @@ msgstr "Por favor, compruebe su correo electrónico para confirmar el cambio"
 msgid "Public email"
 msgstr "Dirección de correo electrónico pública"
 
+msgid "Register"
+msgstr ""
+
 msgid "Remember me"
 msgstr "Recuerdame"
 
 msgid "Sign in successful - {lastLogin}"
 msgstr "Inicio de sesión correcto - {lastLogin}"
+
+msgid "Subject Confirm"
+msgstr ""
+
+msgid "Subject Password"
+msgstr ""
+
+msgid "Subject Reconfirmation"
+msgstr ""
+
+msgid "Subject Recovery"
+msgstr ""
+
+msgid "Subject Welcome"
+msgstr ""
 
 msgid "System Notification"
 msgstr "Notificación del sistema"
@@ -94,11 +127,23 @@ msgstr "Este valor no es una dirección de correo electrónico válida"
 msgid "Time zone"
 msgstr "Zona horaria"
 
+msgid "Token Confirmation"
+msgstr ""
+
+msgid "Token Recover"
+msgstr ""
+
 msgid "User is active"
 msgstr "El usuario está activo"
 
 msgid "Username"
 msgstr "Nombre de Usuario"
+
+msgid "Username Case Sensitive"
+msgstr ""
+
+msgid "Username Regex Expression"
+msgstr ""
 
 msgid "Username already registered"
 msgstr "Nombre de usuario ya registrado"
