@@ -22,6 +22,7 @@
         "roave/infection-static-analysis-plugin": "^1.7",
         "vimeo/psalm": "^4.3",
         "yii-extension/user": "dev-main",
+        "yii-extension/user-mailer-service": "1.0.x-dev",
         "yii-extension/user-view-bootstrap5": "^1.0@dev",
         "yii-extension/user-view-bulma": "^1.0@dev",
         "yiisoft/router-fastroute": "^3.0@dev"
