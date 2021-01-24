@@ -8,12 +8,10 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgid "A confirmation message has been sent to your new email address {email}"
-msgstr ""
-"На ваш новый адрес электронной почты {email} было отправлено подтверждающее "
-"сообщение"
+msgstr "Письмо с подтверждением, было отправлено на ваш новый адрес электронной почты {email}"
 
 msgid "Account Delete"
-msgstr "Учетная запись Удалить"
+msgstr "Удалить учётную запись"
 
 msgid "Bio"
 msgstr "Биография"
@@ -22,13 +20,13 @@ msgid "Confirmation"
 msgstr "Подтверждение"
 
 msgid "Email"
-msgstr "Эл. адрес"
+msgstr "Email"
 
 msgid "Email From"
-msgstr "Электронная почта от"
+msgstr "Email от"
 
 msgid "Email already registered"
-msgstr "Электронная почта уже зарегистрирована"
+msgstr "Этот адрес электронной почты уже зарегистрирован"
 
 msgid "Generating password"
 msgstr "Сгенерировать пароль"
@@ -58,30 +56,25 @@ msgid "Password should contain at least 6 characters"
 msgstr "Пароль должен содержать не менее 6 символов"
 
 msgid "Please check your email to activate your account"
-msgstr ""
-"Пожалуйста, проверьте свою электронную почту, чтобы активировать свое имя "
-"пользователя"
+msgstr "Пожалуйста, проверьте свою электронную почту, чтобы активировать вашу учётную запись"
 
 msgid "Please check your email to activate your username"
-msgstr ""
-"Пожалуйста, проверьте свою электронную почту, чтобы активировать свое имя "
-"пользователя"
+msgstr "Пожалуйста, проверьте свою электронную почту, чтобы активировать свое имя пользователя"
 
 msgid "Please check your email to change your password"
 msgstr "Пожалуйста, проверьте свою электронную почту, чтобы изменить пароль"
 
 msgid "Please check your email to confirm the change"
-msgstr ""
-"Пожалуйста, проверьте свою электронную почту, чтобы подтвердить изменение"
+msgstr "Пожалуйста, проверьте свою электронную почту, чтобы подтвердить изменение"
 
 msgid "Public email"
-msgstr "Общедоступный эл. адрес"
+msgstr "Публичный Email"
 
 msgid "Register"
 msgstr "Регистрация"
 
 msgid "Remember me"
-msgstr "Запомнить"
+msgstr "Запомнить меня"
 
 msgid "Sign in successful - {lastLogin}"
 msgstr "Успешный вход - {lastLogin}"
@@ -106,30 +99,28 @@ msgstr "Системное уведомление"
 
 msgid "Thank you. If said email is registered, you will get a password reset"
 msgstr ""
-"Спасибо. Если указанный адрес электронной почты зарегистрирован, вы получите "
-"сброс пароля"
+"Спасибо. Если указанный адрес электронной почты зарегистрирован, вы получите ссылку на сброс "
+"пароля"
 
-msgid ""
-"Thank you. If said email is registered, you will get a resend confirmation "
-"message"
+msgid "Thank you. If said email is registered, you will get a resend confirmation message"
 msgstr ""
-"Спасибо. Если указанный адрес электронной почты зарегистрирован, вы получите "
-"сообщение с подтверждением повторной отправки"
+"Спасибо. Если указанный адрес электронной почты зарегистрирован, вы получите повторное "
+"сообщение с подтверждающей ссылкой"
 
 msgid "The value must be either \"1\" or \"0\""
 msgstr "Значение должно быть либо «1», либо «0»"
 
 msgid "This is your first login - Welcome"
-msgstr "Это ваш первый логин - Добро пожаловать"
+msgstr "Это ваш первый вход - Добро пожаловать"
 
 msgid "This value is invalid"
 msgstr "Это недопустимое значение"
 
 msgid "This value is not a valid URL"
-msgstr "Это значение не является действительным URL"
+msgstr "Это значение не является корректным URL"
 
 msgid "This value is not a valid email address"
-msgstr "Это значение не является действительным адресом электронной почты"
+msgstr "Это значение не является корректным адресом электронной почты"
 
 msgid "Time zone"
 msgstr "Часовой пояс"
@@ -150,7 +141,7 @@ msgid "Username Case Sensitive"
 msgstr "Имя пользователя чувствительно к регистру"
 
 msgid "Username Regex Expression"
-msgstr "Выражение регулярного выражения имени пользователя"
+msgstr "Имя пользователя Регулярное Выражение"
 
 msgid "Username already registered"
 msgstr "Имя пользователя уже зарегистрировано"
@@ -162,12 +153,12 @@ msgid "Value cannot be blank"
 msgstr "Значение не может быть пустым"
 
 msgid ""
-"We have sent confirmation links to both old email: {email} and new email: "
-"{newEmail} addresses. You must click both links to complete your request"
+"We have sent confirmation links to both old email: {email} and new email: {newEmail} "
+"addresses. You must click both links to complete your request"
 msgstr ""
-"Мы отправили ссылки для подтверждения как на старый адрес электронной почты: "
-"{email}, так и на новый адрес электронной почты: {newEmail}. Вы должны "
-"щелкнуть обе ссылки, чтобы завершить свой запрос"
+"Мы отправили ссылки для подтверждения как на старый адрес электронной почты: {email}, так и "
+"на новый адрес электронной почты: {newEmail}. Вы должны щелкнуть обе ссылки, для завершения "
+"своего запроса"
 
 msgid "Website"
 msgstr "Веб-сайт"
@@ -191,4 +182,4 @@ msgid "Your user has been blocked, contact an administrator"
 msgstr "Ваш пользователь заблокирован, обратитесь к администратору"
 
 msgid "Your user has been confirmed"
-msgstr "Ваш пользователь подтвержден"
+msgstr "Ваш пользователь подтверждён"

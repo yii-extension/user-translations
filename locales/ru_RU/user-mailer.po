@@ -10,13 +10,11 @@ msgstr ""
 msgid "Hello, {username},"
 msgstr "Здравствуйте, {username},"
 
-msgid ""
-"If you cannot click the link, please try pasting the text into your browser."
-msgstr ""
-"Если вы не можете щелкнуть ссылку, попробуйте вставить текст в свой браузер."
+msgid "If you cannot click the link, please try pasting the text into your browser."
+msgstr "Если вы не можете перейти по ссылке, попробуйте вставить её текст в адресную строку своего браузера."
 
 msgid "If you did not make this request you can ignore this email."
-msgstr "Если вы не отправляли этот запрос, игнорируйте это письмо."
+msgstr "Если вы не отправляли этот запрос, просто проигнорируйте это письмо."
 
 msgid "In order to complete your request, please click the link below:"
 msgstr "Чтобы завершить запрос, нажмите на ссылку ниже:"
@@ -27,17 +25,11 @@ msgstr "Благодарим вас за регистрацию в {applicationN
 msgid "We have generated a password for you:"
 msgstr "Мы создали для вас пароль:"
 
-msgid ""
-"We have received a request to change the email address for your account on "
-"{applicationName}."
-msgstr ""
+msgid "We have received a request to change the email address for your account on {applicationName}."
+msgstr "Мы получили запрос на изменение адреса электронной почты для вашего аккаунта в {applicationName}."
 
-msgid ""
-"We have received a request to reset the password for your account on "
-"{applicationName}."
-msgstr ""
-"Мы получили запрос на изменение адреса электронной почты для вашего аккаунта "
-"в {applicationName}."
+msgid "We have received a request to reset the password for your account on {applicationName}."
+msgstr "Мы получили запрос на сброс пароля для вашего аккаунта в {applicationName}."
 
 msgid "Your account on {applicationName} has a new password."
 msgstr "У вашей учетной записи в {applicationName} новый пароль."

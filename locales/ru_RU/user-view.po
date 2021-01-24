@@ -8,7 +8,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgid "Already registered - Sign in!"
-msgstr "Уже зарегистрированы - Vходить!"
+msgstr "Уже зарегистрированы - Войти!"
 
 msgid "Change email address"
 msgstr "Изменить адрес электронной почты"
@@ -17,10 +17,10 @@ msgid "Continue"
 msgstr "Продолжить"
 
 msgid "Didn't receive confirmation message"
-msgstr "Не получил подтверждающее сообщение"
+msgstr "Не получили подтверждающее сообщение"
 
 msgid "Don't have an account - Sign up!"
-msgstr "Нет учетной записи - Регистрация!"
+msgstr "Нет учетной записи - Зарегистрируйтесь!"
 
 msgid "Forgot password"
 msgstr "Забыли пароль"
