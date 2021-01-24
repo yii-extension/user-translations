@@ -35,6 +35,13 @@ return [
         ],
     ],
 
+    CategoryUserMailer::class => [
+        '__class' => Category::class,
+        '__construct()' => [
+            'name' => 'user-mailer',
+        ],
+    ],
+
     CategoryUserView::class => [
         '__class' => Category::class,
         '__construct()' => [
@@ -54,6 +61,7 @@ return [
             array_merge(
                 [
                     Reference::to(CategoryUser::class),
+                    Reference::to(CategoryUserMailer::class),
                     Reference::to(CategoryUserView::class),
                 ],
                 $params['yiisoft/translator']['addCategories'],
