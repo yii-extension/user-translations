@@ -17,6 +17,6 @@ for d in locales/*/ ; do
             touch "$d$(basename "$i" .pot).po"
         fi
 
-        msgmerge --update --silent "$d$(basename "$i" .pot).po" $i
+        msgmerge --update --silent --backup=off "$d$(basename "$i" .pot).po" $i
     done
 done

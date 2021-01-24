@@ -7,43 +7,40 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 &&n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-msgid "Hello, {username}"
-msgstr ""
+msgid "Hello, {username},"
+msgstr "Здравствуйте, {username},"
 
 msgid ""
-"If you cannot click the link, please try pasting the text into your browser"
+"If you cannot click the link, please try pasting the text into your browser."
 msgstr ""
+"Если вы не можете щелкнуть ссылку, попробуйте вставить текст в свой браузер."
 
-msgid "If you did not make this request you can ignore this email"
-msgstr ""
+msgid "If you did not make this request you can ignore this email."
+msgstr "Если вы не отправляли этот запрос, игнорируйте это письмо."
 
-msgid "In order to complete your registration, please click the link below"
-msgstr ""
+msgid "In order to complete your request, please click the link below:"
+msgstr "Чтобы завершить запрос, нажмите на ссылку ниже:"
 
-msgid "In order to complete your request, please click the link below"
-msgstr ""
+msgid "Thank you for signing up on {applicationName}."
+msgstr "Благодарим вас за регистрацию в {applicationName}."
 
-msgid "Please click the link below to complete your password reset"
-msgstr ""
-
-msgid "Thank you for signing up on {applicationName}"
-msgstr ""
-
-msgid "We have generated a password for you: "
-msgstr ""
+msgid "We have generated a password for you:"
+msgstr "Мы создали для вас пароль:"
 
 msgid ""
 "We have received a request to change the email address for your account on "
-"{applicationName}"
+"{applicationName}."
 msgstr ""
 
 msgid ""
 "We have received a request to reset the password for your account on "
-"{applicationName}"
+"{applicationName}."
 msgstr ""
+"Мы получили запрос на изменение адреса электронной почты для вашего аккаунта "
+"в {applicationName}."
 
-msgid "Your account on {applicationName} has a new password"
-msgstr ""
+msgid "Your account on {applicationName} has a new password."
+msgstr "У вашей учетной записи в {applicationName} новый пароль."
 
-msgid "Your account on {applicationName} has been created"
-msgstr ""
+msgid "Your account on {applicationName} has been created."
+msgstr "Ваша учетная запись в {applicationName} создана."

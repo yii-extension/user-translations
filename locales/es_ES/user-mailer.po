@@ -6,43 +6,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Hello, {username}"
+msgid "Hello, {username},"
 msgstr ""
 
 msgid ""
-"If you cannot click the link, please try pasting the text into your browser"
+"If you cannot click the link, please try pasting the text into your browser."
 msgstr ""
 
-msgid "If you did not make this request you can ignore this email"
+msgid "If you did not make this request you can ignore this email."
 msgstr ""
 
-msgid "In order to complete your registration, please click the link below"
+msgid "In order to complete your request, please click the link below:"
 msgstr ""
 
-msgid "In order to complete your request, please click the link below"
+msgid "Thank you for signing up on {applicationName}."
 msgstr ""
 
-msgid "Please click the link below to complete your password reset"
-msgstr ""
-
-msgid "Thank you for signing up on {applicationName}"
-msgstr ""
-
-msgid "We have generated a password for you: "
+msgid "We have generated a password for you:"
 msgstr ""
 
 msgid ""
 "We have received a request to change the email address for your account on "
-"{applicationName}"
+"{applicationName}."
 msgstr ""
 
 msgid ""
 "We have received a request to reset the password for your account on "
-"{applicationName}"
+"{applicationName}."
 msgstr ""
 
-msgid "Your account on {applicationName} has a new password"
+msgid "Your account on {applicationName} has a new password."
 msgstr ""
 
-msgid "Your account on {applicationName} has been created"
+msgid "Your account on {applicationName} has been created."
 msgstr ""
