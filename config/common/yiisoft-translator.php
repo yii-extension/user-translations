@@ -5,7 +5,7 @@ declare(strict_types=1);
 use Psr\EventDispatcher\EventDispatcherInterface;
 use Yiisoft\Aliases\Aliases;
 use Yiisoft\Factory\Definitions\Reference;
-use Yiisoft\Translator\Category;
+use Yiisoft\Translator\CategorySource;
 use Yiisoft\Translator\MessageFormatterInterface;
 use Yiisoft\Translator\MessageReaderInterface;
 use Yiisoft\Translator\Translator;
@@ -21,29 +21,29 @@ return [
 
     MessageFormatterInterface::class => IntlMessageFormatter::class,
 
-    Category::class => [
-        '__class' => Category::class,
+    CategorySource::class => [
+        '__class' => CategorySource::class,
         '__construct()' => [
             'name' => $params['yiisoft/translator']['defaultCategory'],
         ],
     ],
 
     CategoryUser::class => [
-        '__class' => Category::class,
+        '__class' => CategorySource::class,
         '__construct()' => [
             'name' => 'user',
         ],
     ],
 
     CategoryUserMailer::class => [
-        '__class' => Category::class,
+        '__class' => CategorySource::class,
         '__construct()' => [
             'name' => 'user-mailer',
         ],
     ],
 
     CategoryUserView::class => [
-        '__class' => Category::class,
+        '__class' => CategorySource::class,
         '__construct()' => [
             'name' => 'user-view',
         ],
@@ -52,7 +52,6 @@ return [
     TranslatorInterface::class => [
         '__class' => Translator:: class,
         '__construct()' => [
-            Reference::to(Category::class),
             $params['yiisoft/translator']['locale'],
             $params['yiisoft/translator']['fallbackLocale'],
             Reference::to(EventDispatcherInterface::class),
