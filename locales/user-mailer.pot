@@ -11,7 +11,7 @@ msgstr ""
 msgid "In order to complete your request, please click the link below:"
 msgstr ""
 
-msgid "Thank you for signing up on {applicationName}."
+msgid "Thank you for signing up on {moduleName}."
 msgstr ""
 
 msgid "We have generated a password for you:"
@@ -19,16 +19,16 @@ msgstr ""
 
 msgid ""
 "We have received a request to change the email address for your account on "
-"{applicationName}."
+"{moduleName}."
 msgstr ""
 
 msgid ""
 "We have received a request to reset the password for your account on "
-"{applicationName}."
+"{moduleName}."
 msgstr ""
 
-msgid "Your account on {applicationName} has a new password."
+msgid "Your account on {moduleName} has a new password."
 msgstr ""
 
-msgid "Your account on {applicationName} has been created."
+msgid "Your account on {moduleName} has been created."
 msgstr ""

@@ -10,29 +10,14 @@ msgid "A confirmation message has been sent to your new email address {email}"
 msgstr ""
 "Er is een bevestigingsbericht verzonden naar uw nieuwe e-mailadres {email}"
 
-msgid "Account Delete"
-msgstr "Account verwijderen"
-
 msgid "Bio"
 msgstr "Biografie"
-
-msgid "Confirmation"
-msgstr "Bevestiging"
 
 msgid "Email"
 msgstr "E-mail Adres"
 
-msgid "Email From"
-msgstr "Email afzender"
-
 msgid "Email already registered"
 msgstr "E-mailadres al geregistreerd"
-
-msgid "Generating password"
-msgstr "Genereer wachtwoord"
-
-msgid "Header Message"
-msgstr "Header bericht"
 
 msgid "Inactive user"
 msgstr "Inactieve gebruiker"
@@ -48,9 +33,6 @@ msgstr "Naam"
 
 msgid "Password"
 msgstr "Wachtwoord"
-
-msgid "Password Recovery"
-msgstr "Wachtwoord herstellen"
 
 msgid "Password should contain at least 6 characters"
 msgstr "Wachtwoord moet minimaal 6 tekens bevatten"
@@ -70,29 +52,11 @@ msgstr "Controleer uw e-mail om de wijziging te bevestigen"
 msgid "Public email"
 msgstr "Openbaar e-mailadres"
 
-msgid "Register"
-msgstr "Registreren"
-
 msgid "Remember me"
 msgstr "Ingelogd blijven"
 
 msgid "Sign in successful - {lastLogin}"
 msgstr "Succesvol aangemeld - {lastLogin}"
-
-msgid "Subject Confirm"
-msgstr "Onderwerp Bevestigen"
-
-msgid "Subject Password"
-msgstr "Onderwerp Wachtwoord"
-
-msgid "Subject Reconfirmation"
-msgstr "Onderwerp Herbevestiging"
-
-msgid "Subject Recovery"
-msgstr "Onderwerp Herstel"
-
-msgid "Subject Welcome"
-msgstr "Onderwerp Welkom"
 
 msgid "System Notification"
 msgstr "Systeemnotificatie"
@@ -127,23 +91,11 @@ msgstr "Deze waarde is geen geldig e-mailadres"
 msgid "Time zone"
 msgstr "Tijdzone"
 
-msgid "Token Confirmation"
-msgstr "Token bevestiging"
-
-msgid "Token Recover"
-msgstr "Token herstellen"
-
 msgid "User is active"
 msgstr "Gebruiker is actief"
 
 msgid "Username"
 msgstr "Gebruikersnaam"
-
-msgid "Username Case Sensitive"
-msgstr "Gebruikersnaam hoofdlettergevoelig"
-
-msgid "Username Regex Expression"
-msgstr "Gebruikersnaam Regex-expressie"
 
 msgid "Username already registered"
 msgstr "Gebruikersnaam al geregistreerd"
@@ -185,3 +137,51 @@ msgstr "Uw gebruiker is geblokkeerd, neem contact op met een beheerder"
 
 msgid "Your user has been confirmed"
 msgstr "Uw account is bevestigd"
+
+#~ msgid "Account Delete"
+#~ msgstr "Account verwijderen"
+
+#~ msgid "Confirmation"
+#~ msgstr "Bevestiging"
+
+#~ msgid "Email From"
+#~ msgstr "Email afzender"
+
+#~ msgid "Generating password"
+#~ msgstr "Genereer wachtwoord"
+
+#~ msgid "Header Message"
+#~ msgstr "Header bericht"
+
+#~ msgid "Password Recovery"
+#~ msgstr "Wachtwoord herstellen"
+
+#~ msgid "Register"
+#~ msgstr "Registreren"
+
+#~ msgid "Subject Confirm"
+#~ msgstr "Onderwerp Bevestigen"
+
+#~ msgid "Subject Password"
+#~ msgstr "Onderwerp Wachtwoord"
+
+#~ msgid "Subject Reconfirmation"
+#~ msgstr "Onderwerp Herbevestiging"
+
+#~ msgid "Subject Recovery"
+#~ msgstr "Onderwerp Herstel"
+
+#~ msgid "Subject Welcome"
+#~ msgstr "Onderwerp Welkom"
+
+#~ msgid "Token Confirmation"
+#~ msgstr "Token bevestiging"
+
+#~ msgid "Token Recover"
+#~ msgstr "Token herstellen"
+
+#~ msgid "Username Case Sensitive"
+#~ msgstr "Gebruikersnaam hoofdlettergevoelig"
+
+#~ msgid "Username Regex Expression"
+#~ msgstr "Gebruikersnaam Regex-expressie"
